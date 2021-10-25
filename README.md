@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kavya shree and I'm a inspried Junior Web Developer based in Sydney, Australia.
+
 <!--
 **Kavya-88/Kavya-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
