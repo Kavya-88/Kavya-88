@@ -2,7 +2,7 @@
 
 My name is Kavya shree and I'm a inspried Junior Web Developer based in Sydney, Australia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavya-88&show_icons=true&theme=radical)
 
 
 <!--
